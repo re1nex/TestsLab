@@ -1,3 +1,0 @@
-CalculatorTest.java
- CalculatorTest
- CalculatorTest$firstTest
